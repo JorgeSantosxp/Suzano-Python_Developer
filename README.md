@@ -21,5 +21,12 @@ Uma ferramenta que facilita a criação de assistentes inteligentes personalizad
 - Potencial de automação com IA integrada às ferramentas do Microsoft
 - Facilidade de uso na integração com o ecossistema Microsoft
 
+- A atividade envolve criar e configurar um Copilot personalizado no Microsoft Copilot Studio. Os principais tópicos incluem:
+
+Iniciar um copiloto do zero: Aprende-se a criar um novo copiloto desde o início, definindo sua estrutura básica e funcionalidade.
+Customizar um tópico: É possível adaptar o copiloto para focar em temas ou áreas específicas, ajustando o fluxo de conversa conforme o conteúdo desejado.
+Personalizar mensagens de erro: Configurar mensagens de erro que o copiloto exibirá em diferentes situações, tornando a comunicação mais clara e alinhada com o contexto.
+Ajustar a qualidade das respostas utilizando GenAI: Aprender a modificar as configurações para melhorar a precisão, relevância e coerência das respostas geradas pelo sistema usando a inteligência artificial.
+
 ## Link para a documentação oficial:
 [Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
